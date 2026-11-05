@@ -35,3 +35,31 @@ int main()
         printf("\nARP: IP Address not found in ARP Table.\n");
             return 0; 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+O U T P U T 
+
+
+
+Enter IP Address: 192.168.1.2 
+IP Address  : 192.168.1.2 
+MAC Address : AA:BB:CC:DD:EE:02 
+Enter IP Address: 192.168.1.10 
+ARP: IP Address not found in ARP Table.
